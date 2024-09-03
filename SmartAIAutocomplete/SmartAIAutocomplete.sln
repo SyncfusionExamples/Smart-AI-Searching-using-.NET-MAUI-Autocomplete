@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartAIAutocomplete", "SmartAIAutocomplete.csproj", "{C1F743DC-472A-47A4-A209-1E1851A5C982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1F743DC-472A-47A4-A209-1E1851A5C982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F743DC-472A-47A4-A209-1E1851A5C982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F743DC-472A-47A4-A209-1E1851A5C982}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C1F743DC-472A-47A4-A209-1E1851A5C982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F743DC-472A-47A4-A209-1E1851A5C982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F743DC-472A-47A4-A209-1E1851A5C982}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {238F99FA-34EC-4C3E-BD56-EECFFFCF1BBA}
+	EndGlobalSection
+EndGlobal
