@@ -64,7 +64,7 @@ namespace SmartAIAutocomplete.SmartAIAutocomplete.AIService
 
         private void ValidateCredential()
         {
-            if (client == null)
+            if (client == null && IsCredentialValid)
             {
                 client = new OpenAIClient(new Uri(endpoint), new AzureKeyCredential(key));
             }
