@@ -15,3 +15,7 @@ Smart-AI-Searching-using-.NET-MAUI-Autocomplete is a cross-platform sample appli
 * Autocomplete using Syncfusion’s SfAutocomplete 
 * AI-driven suggestions 
 * MVVM-ready architecture with testable services
+
+## Getting Started
+
+To run this sample, clone the repository, open the solution in Visual Studio 2022 (or later), restore NuGet packages, and run on your chosen platform (Windows, Android, iOS, or macOS). Review the included sample configuration and `Services` to customize suggestion sources, AI re-ranking, and UI behavior. Contributions, issues, and PRs are welcome — see the project issues for ideas and roadmap items.
